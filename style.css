@@ -1,28 +1,51 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color: aliceblue;
+  }
+
 /* Global */
-
-
 
 
 /* Heading */
 
+header {
+    background-color: seagreen;
+    color: white;
+    padding-top: 20px;
+    border-bottom: #fb047c 10px solid;
+}
 
+.logo {
+    float: left;
+    padding-left: 30px;
+    padding-right: 50px;
+}
 
+h1 {
+    font-size: 50px;
+}
 
+header li {
+    padding: 20px;
+    display: inline;
+    font-size: 20px;
+  }
 
-/*  Nav  */
-
-
-
+  header li:hover {
+    color:#cccccc;
+  }
 
 
 /*  Main section  */
 
-
-
+main {
+    height: 350px;
+}
 
 
 /*  Article  */
-
 
 
 
@@ -34,3 +57,12 @@
 
 
 /*  Footer  */
+
+footer{
+    padding:10px;
+    margin-top:10px;
+    color: white;
+    background-color:seagreen;
+    border-top: #fb047c 10px solid;
+    text-align: center;
+  }

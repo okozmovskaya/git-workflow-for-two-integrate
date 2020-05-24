@@ -40,13 +40,16 @@ __As a site visitor, I want to know what the web page is called__
 
 ### HTML
 
-- A header element with a title describing the web page
-- A pleasant footer
+- Add header with name of company and navigation in the right-side of header.
+- Add logo company
+- Add site navigation
+- Add paragraph about copyright and the year of creation of the site in the footer
 
 ### CSS
 
-- Layout styling for the header & footer
-- Text styling for the main title
+- Use mono color for background of header and footer.
+- Use contrast color of font.
+- Use hover for navigation.
 
 ---
 ---
