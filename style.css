@@ -37,7 +37,21 @@ header li {
     color:#cccccc;
   }
 
-
+/* Showcase */
+#showcase{
+  min-height:400px;
+  text-align:center;
+  color:seagreen;
+  background-color: beige;
+}
+#showcase h1{
+  margin-top:100px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+#showcase p{
+  font-size:20px;
+}
 /*  Main section  */
 
 main {
