@@ -124,3 +124,14 @@ footer{
     border-top: #fb047c 10px solid;
     text-align: center;
   }
+
+  .references {
+    position: relative;
+    background-color: beige;
+    color: black;
+    margin-left: auto;
+
+  }
+  .websites{
+    color: #fb047c ;
+  }
