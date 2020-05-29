@@ -81,7 +81,7 @@ Styling for the new element
 
 ## 3. main text
 
-__As a site visitor, I want to learn about something cool__
+__As a site visitor, I want to learn about company and services__
 
 > assigned to Olga Kozmovskaia
 
@@ -94,12 +94,13 @@ __As a site visitor, I want to learn about something cool__
 
 ### HTML
 
-- article element
-- something cool that everyone needs to know
+- Add article element About Us
+- Add aside element What we do
 
 ### CSS
 
-Styling for the new element
+- Use mono color for background elements.
+- Use contrast color of font.
 
 ---
 ---
