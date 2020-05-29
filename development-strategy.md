@@ -69,16 +69,11 @@ __As a site visitor, I want to read an introduction to this web page__
 
 ### HTML
 
-- section element
-- some nice text in the section introducing users to this web page
+- added section element, showcase and container
 
 ### CSS
 
-Styling for the new element
-
----
----
-
+- edited text, added background color and positioning
 ## 3. main text
 
 __As a site visitor, I want to learn about company and services__
@@ -120,15 +115,14 @@ __As a site visitor, I want to know where I can learn more__
 
 ### HTML
 
-- aside element
-- some links for people to learn more about the cool thing
+- added aside element
+- added relevant links 
 
 ### CSS
 
 Styling for the new element
 
----
----
+- added background, adjusted the positioning
 
 ## 5. Finishing Touches
 
